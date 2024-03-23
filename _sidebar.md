@@ -1,4 +1,5 @@
 <!-- docs/_sidebar.md -->
 
-* [Getting Started](/#get-started)
-* [Packages](/available-packages.md)
+* [Get Started](/get-started.md)
+* [Packages](/available-packages)
+    * [k9s](/available-packages#k9s)
