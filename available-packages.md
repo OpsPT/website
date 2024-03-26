@@ -12,6 +12,20 @@ This page contains a list of all the available packages for OpsPT.
 sudo apt install k9s
 ```
 
-### Lisense
+### License
 
-[k9s lisense](https://github.com/derailed/k9s/blob/master/LICENSE)
+[k9s license](https://github.com/derailed/k9s/blob/master/LICENSE)
+
+## Teleport
+
+Protect access to all of your infrastructure 
+
+### Installation
+
+```sh
+sudo apt install teleport
+```
+
+### License
+
+[Teleport license](https://github.com/gravitational/teleport/blob/master/LICENSE)
